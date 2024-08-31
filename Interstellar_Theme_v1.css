@@ -531,13 +531,13 @@ div.cave-grid>img /* Pregnant Lionesses */ {
 }
 
 a[href$="lionoverview.php?id=307325"]>div.cave-grid>img /* Pride Overview */ {
-	content: url('IMAGE URL') !important;
+	content: url('https://i.imgur.com/BFOfKqO.png') !important;
 	max-width: 260px;
 	max-height: 60px;
 }
 
 a[href$="unsorted.php?id=307325"]>div.cave-grid>img /* Unsorted */ {
-	content: url('IMAGE URL') !important;
+	content: url('https://i.imgur.com/RZnbm8q.png') !important;
 	max-width: 260px;
 	max-height: 60px;
 }
