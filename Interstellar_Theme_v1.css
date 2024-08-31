@@ -524,37 +524,28 @@ div.container.main>div:nth-child(1)>nav>div.navbar-header>a>img {
 
 /* CAVE / MOUND IMAGES */
 
-div.cave-grid>img /* Pregnant Lionesses */ {
-	content: url('https://i.imgur.com/0dqmZyN.png') !important;
-	max-width: 260px;
-	max-height: 60px;
+a[href$="https://www.lioden.com/nesting.php?id=307325"]div.cave-grid>img /* Pregnant Lionesses */ {
+	content: url('https://i.imgur.com/0dqmZyN.png') !important
 }
 
 a[href$="lionoverview.php?id=307325"]>div.cave-grid>img /* Pride Overview */ {
-	content: url('https://i.imgur.com/BFOfKqO.png') !important;
-	max-width: 260px;
-	max-height: 60px;
+	content: url('https://i.imgur.com/BFOfKqO.png') !important
 }
 
 a[href$="unsorted.php?id=307325"]>div.cave-grid>img /* Unsorted */ {
-	content: url('https://i.imgur.com/RZnbm8q.png') !important;
-	max-width: 260px;
-	max-height: 60px;
+	content: url('https://i.imgur.com/RZnbm8q.png') !important
 }
 
 a[href$="cave.php?id=392816"]>div.cave-grid>img /* Heraia */ {
-	content: url('https://i.imgur.com/UjeH7Ou.png') !important;
-	max-width: 252px;
+	content: url('https://i.imgur.com/UjeH7Ou.png') !important
 }
 
 a[href$="cave.php?id=243627"]>div.cave-grid>img /* The Pantheon */ {
-	content: url('https://i.imgur.com/5jk5dg8.png') !important;
-	max-width: 252px;
+	content: url('https://i.imgur.com/5jk5dg8.png') !important
 }
 
 a[href$="cave.php?id=246746"]>div.cave-grid>img /* Olympus */ {
-	content: url('https://i.imgur.com/F3xlMY2.png') !important;
-	max-width: 252px;
+	content: url('https://i.imgur.com/F3xlMY2.png') !important
 }
 
 .mound-grid img /* Mound(s) */ {
