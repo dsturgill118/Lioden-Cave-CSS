@@ -525,27 +525,27 @@ div.container.main>div:nth-child(1)>nav>div.navbar-header>a>img {
 /* CAVE / MOUND IMAGES */
 
 div.cave-grid>img /* Pregnant Lionesses */ {
-	content: url('IMAGE URL') !important
+	content: url('https://i.imgur.com/0dqmZyN.png') !important
 }
 
 a[href$="lionoverview.php?id=307325"]>div.cave-grid>img /* Pride Overview */ {
-	content: url('IMAGE URL') !important
+	content: url('https://i.imgur.com/RZnbm8q.png') !important
 }
 
 a[href$="unsorted.php?id=307325"]>div.cave-grid>img /* Unsorted */ {
-	content: url('IMAGE URL') !important
+	content: url('https://i.imgur.com/BFOfKqO.png') !important
 }
 
 a[href$="cave.php?id=392816"]>div.cave-grid>img /* Heraia */ {
-	content: url('IMAGE URL') !important
+	content: url('https://i.imgur.com/3gyqLmU.png') !important
 }
 
 a[href$="cave.php?id=243627"]>div.cave-grid>img /* The Pantheon */ {
-	content: url('IMAGE URL') !important
+	content: url('https://i.imgur.com/p9Aczil.png') !important
 }
 
 a[href$="cave.php?id=246746"]>div.cave-grid>img /* Olympus */ {
-	content: url('IMAGE URL') !important
+	content: url('https://i.imgur.com/148g279.png') !important
 }
 
 .mound-grid img /* Mound(s) */ {
