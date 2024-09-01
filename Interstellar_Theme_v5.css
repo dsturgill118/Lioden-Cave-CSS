@@ -532,14 +532,14 @@ div.cave-grid>img /* Pregnant Lionesses */ {
 
 a[href$="lionoverview.php?id=307325"]>div.cave-grid>img /* Pride Overview */ {
 	content: url('https://i.imgur.com/RZnbm8q.png') !important;
-	max-height: 260px:
-	max-width: 60px;
+	max-widtht: 260px;
+	max-height: 60px;
 }
 
 a[href$="unsorted.php?id=307325"]>div.cave-grid>img /* Unsorted */ {
 	content: url('https://i.imgur.com/BFOfKqO.png') !important;
-	max-height: 260px:
-	max-width: 60px;
+	max-widtht: 260px;
+	max-height: 60px;
 }
 
 a[href$="cave.php?id=392816"]>div.cave-grid>img /* Heraia */ {
