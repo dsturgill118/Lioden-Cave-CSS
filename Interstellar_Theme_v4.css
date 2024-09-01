@@ -525,15 +525,21 @@ div.container.main>div:nth-child(1)>nav>div.navbar-header>a>img {
 /* CAVE / MOUND IMAGES */
 
 div.cave-grid>img /* Pregnant Lionesses */ {
-	content: url('https://i.imgur.com/0dqmZyN.png') !important
+	content: url('https://i.imgur.com/0dqmZyN.png') !important;
+	max-height: 260px:
+	max-width: 60px;
 }
 
 a[href$="lionoverview.php?id=307325"]>div.cave-grid>img /* Pride Overview */ {
-	content: url('https://i.imgur.com/RZnbm8q.png') !important
+	content: url('https://i.imgur.com/RZnbm8q.png') !important;
+	max-height: 260px:
+	max-width: 60px;
 }
 
 a[href$="unsorted.php?id=307325"]>div.cave-grid>img /* Unsorted */ {
-	content: url('https://i.imgur.com/BFOfKqO.png') !important
+	content: url('https://i.imgur.com/BFOfKqO.png') !important;
+	max-height: 260px:
+	max-width: 60px;
 }
 
 a[href$="cave.php?id=392816"]>div.cave-grid>img /* Heraia */ {
